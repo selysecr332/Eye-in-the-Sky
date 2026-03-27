@@ -72,7 +72,7 @@ The notebook includes:
 ![WSL installation](../images/install_wsl.png)
 ![PX4 installation/build](../images/install_PX4_and_Run_it.png)
 ![QGroundControl installation](../images/Install_QGroundControl.png)
-![Unreal installation/setup](../images/install_Unreal_Editor.png)
+![Unreal installation](../images/install_Unreal_Editor.png)
 
 ---
 
