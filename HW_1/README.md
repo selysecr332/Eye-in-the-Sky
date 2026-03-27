@@ -69,9 +69,19 @@ The notebook includes:
 
 ### Installation evidence gallery
 
+- Install WSL
+
 ![WSL installation](../images/install_wsl.png)
+
+- Install PX4
+
 ![PX4 installation/build](../images/install_PX4_and_Run_it.png)
+
+- Install QGroundControl
+
 ![QGroundControl installation](../images/Install_QGroundControl.png)
+
+- Install_Unreal
 ![Unreal installation/setup](../images/install_Unreal_Editor.png)
 
 ---
