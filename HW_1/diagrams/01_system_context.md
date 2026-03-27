@@ -2,7 +2,7 @@
 
 ```mermaid
 flowchart LR
-  USER[Student]
+  USER[user]
   QGC[QGroundControl]
   PX4[PX4 SITL]
   UE[Unreal Engine]
